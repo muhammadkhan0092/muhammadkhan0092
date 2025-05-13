@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Muhammad Khan
 
-<!--
-**muhammadkhan0092/muhammadkhan0092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Kotlin Android developer with a strong foundation in native mobile application development. I enjoy creating responsive, user-friendly mobile apps that solve real-world problems.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
+- **Languages**: Kotlin, Java  
+- **UI**: XML, Jetpack Compose (learning)  
+- **Tools**: Android Studio, Git, Firebase, Room, Retrofit  
+- **Practices**: MVVM, Clean Architecture, Dependency Injection (Hilt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Focus:
+- Building scalable Android applications
+- Learning Jetpack Compose & Kotlin Multiplatform Mobile (KMM)
+- Contributing to open-source Android projects
+
+### 📬 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/muhammad-khan-0b401233a/)
+- [Email](muhammadkhancs0092@gmail.com)
