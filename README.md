@@ -10,7 +10,7 @@ I'm a Kotlin Android developer with a strong foundation in native mobile applica
 
 ### 📈 Current Focus:
 - Building scalable Android applications
-- Learning Jetpack Compose & Kotlin Multiplatform Mobile (KMM)
+- Learning Jetpack Compose
 - Contributing to open-source Android projects
 
 ### 📬 Connect with me:
