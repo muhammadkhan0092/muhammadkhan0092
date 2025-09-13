@@ -16,3 +16,5 @@ I'm a Kotlin Android developer with a strong foundation in native mobile applica
 ### 📬 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/muhammad-khan-0b401233a/)
 - [Email](muhammadkhancs0092@gmail.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkhan0092&layout=compact)
